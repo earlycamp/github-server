@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/moringaschool/githubServer.git"
+    "url": "git+https://github.com/earlycamp/github-server.git"
   },
-  "author": "Moringa School (http://moringaschool.com/)",
+  "author": "EarlyCamp (http://earlycamp.com/)",
   "contributors": [
-    "Peter Muturi < petermuturi> (peter@moringaschool.com)"
+    ""
   ],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/moringaschool/githubServer/issues"
+    "url": "https://github.com/earlycamp/githubServer/issues"
   },
-  "homepage": "https://github.com/moringaschool/githubServer#readme",
+  "homepage": "https://github.com/earlycamp/github-server#readme",
   "dependencies": {
     "express": "4.13.4",
     "ghteams": "0.3.0",
